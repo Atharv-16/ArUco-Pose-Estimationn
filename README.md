@@ -22,7 +22,7 @@ This project focuses on the precise pose estimation of a drone using ArUco marke
 
 ## Contribution
 
-This project represents a valuable contribution to the broader context of robotics and autonomous systems. The work undertaken here was part of the Inter IIT Tech Meet project, which aimed to develop a reliable and accurate system for drone pose estimation. The successful implementation of this technology has wide-ranging applications, from autonomous drones to surveillance systems and more.
+This project represents a valuable contribution to the broader context of robotics and autonomous systems. The work undertaken here was part of the Inter IIT Tech Meet project, which aimed to develop a reliable and accurate system for drone pose estimation and autonomous flight. The successful implementation of this technology has wide-ranging applications, from autonomous drones to surveillance systems and more.
 
 ## Dependencies
 
