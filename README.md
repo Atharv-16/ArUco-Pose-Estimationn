@@ -20,6 +20,9 @@ This project focuses on the precise pose estimation of a drone using ArUco marke
 
 - **Localization**: Achieving accurate localization of the drone within the arena is a significant milestone of this project. This localization data contributes to the drone's autonomous navigation and enhances its ability to operate safely in dynamic environments.
 
+## Camera Calibratio using checkerboard method
+![camera calibration](https://github.com/Atharv-16/ArUco-Pose-Estimationn/assets/119600601/366e12e8-6638-403d-a657-47da5dd0d710)
+
 ## Contribution
 
 This project represents a valuable contribution to the broader context of robotics and autonomous systems. The work undertaken here was part of the Inter IIT Tech Meet project, which aimed to develop a reliable and accurate system for drone pose estimation and autonomous flight. The successful implementation of this technology has wide-ranging applications, from autonomous drones to surveillance systems and more.
